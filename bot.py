@@ -5,7 +5,7 @@ from aiogram.filters import Command
 from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 BOT_TOKEN = "8498800360:AAG4AgH2mtHsdjdQ-6hryXwFqYkjX9tS7r8"
-ADMIN_ID = 7353213881
+ADMIN_ID = 7602621096
 GROUPS_FILE = "groups.json"
 
 bot = Bot(token=BOT_TOKEN)
